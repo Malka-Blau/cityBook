@@ -1,0 +1,12 @@
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\DAL.dll.config
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\DAL.dll
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\DAL.pdb
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\EntityFramework.dll
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\EntityFramework.xml
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\obj\Debug\DAL.dll
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DAL\obj\Debug\DAL.pdb

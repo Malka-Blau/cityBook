@@ -1,0 +1,6 @@
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DTO\bin\Debug\DTO.dll
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DTO\bin\Debug\DTO.pdb
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DTO\obj\Debug\DTO.dll
+D:\programming-mali\שנה ב\CityBook\server\CityBookTest\DTO\obj\Debug\DTO.pdb
